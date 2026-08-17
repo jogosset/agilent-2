@@ -1,0 +1,688 @@
+source_code,sku,status,quantity
+default,SB-ONC-PRC-WB-8ML,1,18.0000
+default,SSC-HDG-002,1,200.0000
+default,SSC-HDG-005,1,200.0000
+default,SSC-MSK-005,1,200.0000
+default,STUDSON-SHK1-WHITE,1,50.0000
+default,RADIANS-SV2Z-LIME,1,100.0000
+default,GSS-7505-LIME,1,100.0000
+default,sc8890,1,100.0000
+cedar_creek,sc8890,1,100.0000
+memphis_americas,sc8890,1,100.0000
+cedar_creek,SB-ONC-PRC-WB-8ML,1,21.0000
+memphis_americas,SB-ONC-PRC-WB-8ML,1,20.0000
+default,"c8890-Large Mandrel (15 ft-1/8-in)-7890B GC-Standard-4-port",1,100.0000
+default,"c8890-Large Mandrel (15 ft-1/8-in)-7890B GC-Standard-6-port",1,100.0000
+default,"c8890-Large Mandrel (15 ft-1/8-in)-7890B GC-Standard-10-port",1,100.0000
+default,"c8890-Large Mandrel (15 ft-1/8-in)-7890B GC-Standard-14-port",1,100.0000
+default,"c8890-Large Mandrel (15 ft-1/8-in)-7890B GC-Hastelloy-4-port",1,100.0000
+default,"c8890-Large Mandrel (15 ft-1/8-in)-7890B GC-Hastelloy-6-port",1,100.0000
+default,"c8890-Large Mandrel (15 ft-1/8-in)-7890B GC-Hastelloy-10-port",1,100.0000
+default,"c8890-Large Mandrel (15 ft-1/8-in)-7890B GC-Hastelloy-14-port",1,100.0000
+default,"c8890-Large Mandrel (15 ft-1/8-in)-8890 GC-Standard-4-port",1,100.0000
+default,"c8890-Large Mandrel (15 ft-1/8-in)-8890 GC-Standard-6-port",1,100.0000
+default,"c8890-Large Mandrel (15 ft-1/8-in)-8890 GC-Standard-10-port",1,100.0000
+default,"c8890-Large Mandrel (15 ft-1/8-in)-8890 GC-Standard-14-port",1,100.0000
+default,"c8890-Large Mandrel (15 ft-1/8-in)-8890 GC-Hastelloy-4-port",1,100.0000
+default,"c8890-Large Mandrel (15 ft-1/8-in)-8890 GC-Hastelloy-6-port",1,100.0000
+default,"c8890-Large Mandrel (15 ft-1/8-in)-8890 GC-Hastelloy-10-port",1,100.0000
+default,"c8890-Large Mandrel (15 ft-1/8-in)-8890 GC-Hastelloy-14-port",1,100.0000
+default,"c8890-Small Mandrel (7 ft-1/8-in)-7890B GC-Standard-4-port",1,100.0000
+default,"c8890-Small Mandrel (7 ft-1/8-in)-7890B GC-Standard-6-port",1,100.0000
+default,"c8890-Small Mandrel (7 ft-1/8-in)-7890B GC-Standard-10-port",1,100.0000
+default,"c8890-Small Mandrel (7 ft-1/8-in)-7890B GC-Standard-14-port",1,100.0000
+default,"c8890-Small Mandrel (7 ft-1/8-in)-7890B GC-Hastelloy-4-port",1,100.0000
+default,"c8890-Small Mandrel (7 ft-1/8-in)-7890B GC-Hastelloy-6-port",1,100.0000
+default,"c8890-Small Mandrel (7 ft-1/8-in)-7890B GC-Hastelloy-10-port",1,100.0000
+default,"c8890-Small Mandrel (7 ft-1/8-in)-7890B GC-Hastelloy-14-port",1,100.0000
+default,"c8890-Small Mandrel (7 ft-1/8-in)-8890 GC-Standard-4-port",1,100.0000
+default,"c8890-Small Mandrel (7 ft-1/8-in)-8890 GC-Standard-6-port",1,100.0000
+default,"c8890-Small Mandrel (7 ft-1/8-in)-8890 GC-Standard-10-port",1,100.0000
+default,"c8890-Small Mandrel (7 ft-1/8-in)-8890 GC-Standard-14-port",1,100.0000
+default,"c8890-Small Mandrel (7 ft-1/8-in)-8890 GC-Hastelloy-4-port",1,100.0000
+default,"c8890-Small Mandrel (7 ft-1/8-in)-8890 GC-Hastelloy-6-port",1,100.0000
+default,"c8890-Small Mandrel (7 ft-1/8-in)-8890 GC-Hastelloy-10-port",1,100.0000
+default,"c8890-Small Mandrel (7 ft-1/8-in)-8890 GC-Hastelloy-14-port",1,100.0000
+cedar_creek,"c8890-Large Mandrel (15 ft-1/8-in)-7890B GC-Standard-4-port",1,100.0000
+memphis_americas,"c8890-Large Mandrel (15 ft-1/8-in)-7890B GC-Standard-4-port",1,100.0000
+cedar_creek,"c8890-Large Mandrel (15 ft-1/8-in)-7890B GC-Standard-6-port",1,100.0000
+memphis_americas,"c8890-Large Mandrel (15 ft-1/8-in)-7890B GC-Standard-6-port",1,100.0000
+cedar_creek,"c8890-Large Mandrel (15 ft-1/8-in)-7890B GC-Standard-10-port",1,100.0000
+memphis_americas,"c8890-Large Mandrel (15 ft-1/8-in)-7890B GC-Standard-10-port",1,100.0000
+cedar_creek,"c8890-Large Mandrel (15 ft-1/8-in)-7890B GC-Standard-14-port",1,100.0000
+memphis_americas,"c8890-Large Mandrel (15 ft-1/8-in)-7890B GC-Standard-14-port",1,100.0000
+cedar_creek,"c8890-Large Mandrel (15 ft-1/8-in)-7890B GC-Hastelloy-4-port",1,100.0000
+memphis_americas,"c8890-Large Mandrel (15 ft-1/8-in)-7890B GC-Hastelloy-4-port",1,100.0000
+cedar_creek,"c8890-Large Mandrel (15 ft-1/8-in)-7890B GC-Hastelloy-6-port",1,100.0000
+memphis_americas,"c8890-Large Mandrel (15 ft-1/8-in)-7890B GC-Hastelloy-6-port",1,100.0000
+cedar_creek,"c8890-Large Mandrel (15 ft-1/8-in)-7890B GC-Hastelloy-10-port",1,100.0000
+memphis_americas,"c8890-Large Mandrel (15 ft-1/8-in)-7890B GC-Hastelloy-10-port",1,100.0000
+cedar_creek,"c8890-Large Mandrel (15 ft-1/8-in)-7890B GC-Hastelloy-14-port",1,100.0000
+memphis_americas,"c8890-Large Mandrel (15 ft-1/8-in)-7890B GC-Hastelloy-14-port",1,100.0000
+cedar_creek,"c8890-Large Mandrel (15 ft-1/8-in)-8890 GC-Standard-4-port",1,100.0000
+memphis_americas,"c8890-Large Mandrel (15 ft-1/8-in)-8890 GC-Standard-4-port",1,100.0000
+cedar_creek,"c8890-Large Mandrel (15 ft-1/8-in)-8890 GC-Standard-6-port",1,100.0000
+memphis_americas,"c8890-Large Mandrel (15 ft-1/8-in)-8890 GC-Standard-6-port",1,100.0000
+cedar_creek,"c8890-Large Mandrel (15 ft-1/8-in)-8890 GC-Standard-10-port",1,100.0000
+memphis_americas,"c8890-Large Mandrel (15 ft-1/8-in)-8890 GC-Standard-10-port",1,100.0000
+cedar_creek,"c8890-Large Mandrel (15 ft-1/8-in)-8890 GC-Standard-14-port",1,100.0000
+memphis_americas,"c8890-Large Mandrel (15 ft-1/8-in)-8890 GC-Standard-14-port",1,100.0000
+cedar_creek,"c8890-Large Mandrel (15 ft-1/8-in)-8890 GC-Hastelloy-4-port",1,100.0000
+memphis_americas,"c8890-Large Mandrel (15 ft-1/8-in)-8890 GC-Hastelloy-4-port",1,100.0000
+cedar_creek,"c8890-Large Mandrel (15 ft-1/8-in)-8890 GC-Hastelloy-6-port",1,100.0000
+memphis_americas,"c8890-Large Mandrel (15 ft-1/8-in)-8890 GC-Hastelloy-6-port",1,100.0000
+cedar_creek,"c8890-Large Mandrel (15 ft-1/8-in)-8890 GC-Hastelloy-10-port",1,100.0000
+memphis_americas,"c8890-Large Mandrel (15 ft-1/8-in)-8890 GC-Hastelloy-10-port",1,100.0000
+cedar_creek,"c8890-Large Mandrel (15 ft-1/8-in)-8890 GC-Hastelloy-14-port",1,100.0000
+memphis_americas,"c8890-Large Mandrel (15 ft-1/8-in)-8890 GC-Hastelloy-14-port",1,100.0000
+cedar_creek,"c8890-Small Mandrel (7 ft-1/8-in)-7890B GC-Standard-4-port",1,100.0000
+memphis_americas,"c8890-Small Mandrel (7 ft-1/8-in)-7890B GC-Standard-4-port",1,100.0000
+cedar_creek,"c8890-Small Mandrel (7 ft-1/8-in)-7890B GC-Standard-6-port",1,100.0000
+memphis_americas,"c8890-Small Mandrel (7 ft-1/8-in)-7890B GC-Standard-6-port",1,100.0000
+cedar_creek,"c8890-Small Mandrel (7 ft-1/8-in)-7890B GC-Standard-10-port",1,100.0000
+memphis_americas,"c8890-Small Mandrel (7 ft-1/8-in)-7890B GC-Standard-10-port",1,100.0000
+cedar_creek,"c8890-Small Mandrel (7 ft-1/8-in)-7890B GC-Standard-14-port",1,100.0000
+memphis_americas,"c8890-Small Mandrel (7 ft-1/8-in)-7890B GC-Standard-14-port",1,100.0000
+cedar_creek,"c8890-Small Mandrel (7 ft-1/8-in)-7890B GC-Hastelloy-4-port",1,100.0000
+memphis_americas,"c8890-Small Mandrel (7 ft-1/8-in)-7890B GC-Hastelloy-4-port",1,100.0000
+cedar_creek,"c8890-Small Mandrel (7 ft-1/8-in)-7890B GC-Hastelloy-6-port",1,100.0000
+memphis_americas,"c8890-Small Mandrel (7 ft-1/8-in)-7890B GC-Hastelloy-6-port",1,100.0000
+cedar_creek,"c8890-Small Mandrel (7 ft-1/8-in)-7890B GC-Hastelloy-10-port",1,100.0000
+memphis_americas,"c8890-Small Mandrel (7 ft-1/8-in)-7890B GC-Hastelloy-10-port",1,100.0000
+cedar_creek,"c8890-Small Mandrel (7 ft-1/8-in)-7890B GC-Hastelloy-14-port",1,100.0000
+memphis_americas,"c8890-Small Mandrel (7 ft-1/8-in)-7890B GC-Hastelloy-14-port",1,100.0000
+cedar_creek,"c8890-Small Mandrel (7 ft-1/8-in)-8890 GC-Standard-4-port",1,100.0000
+memphis_americas,"c8890-Small Mandrel (7 ft-1/8-in)-8890 GC-Standard-4-port",1,100.0000
+cedar_creek,"c8890-Small Mandrel (7 ft-1/8-in)-8890 GC-Standard-6-port",1,100.0000
+memphis_americas,"c8890-Small Mandrel (7 ft-1/8-in)-8890 GC-Standard-6-port",1,100.0000
+cedar_creek,"c8890-Small Mandrel (7 ft-1/8-in)-8890 GC-Standard-10-port",1,100.0000
+memphis_americas,"c8890-Small Mandrel (7 ft-1/8-in)-8890 GC-Standard-10-port",1,100.0000
+cedar_creek,"c8890-Small Mandrel (7 ft-1/8-in)-8890 GC-Standard-14-port",1,100.0000
+memphis_americas,"c8890-Small Mandrel (7 ft-1/8-in)-8890 GC-Standard-14-port",1,100.0000
+cedar_creek,"c8890-Small Mandrel (7 ft-1/8-in)-8890 GC-Hastelloy-4-port",1,100.0000
+memphis_americas,"c8890-Small Mandrel (7 ft-1/8-in)-8890 GC-Hastelloy-4-port",1,100.0000
+cedar_creek,"c8890-Small Mandrel (7 ft-1/8-in)-8890 GC-Hastelloy-6-port",1,100.0000
+memphis_americas,"c8890-Small Mandrel (7 ft-1/8-in)-8890 GC-Hastelloy-6-port",1,100.0000
+cedar_creek,"c8890-Small Mandrel (7 ft-1/8-in)-8890 GC-Hastelloy-10-port",1,100.0000
+memphis_americas,"c8890-Small Mandrel (7 ft-1/8-in)-8890 GC-Hastelloy-10-port",1,100.0000
+cedar_creek,"c8890-Small Mandrel (7 ft-1/8-in)-8890 GC-Hastelloy-14-port",1,100.0000
+memphis_americas,"c8890-Small Mandrel (7 ft-1/8-in)-8890 GC-Hastelloy-14-port",1,100.0000
+default,G1958-Single-Single,1,123.0000
+default,G1958-Single-Triple,1,123.0000
+default,G1958-Single-Q-TOF,1,123.0000
+default,G1958-Single-TOF,1,123.0000
+default,G1958-Dual-Single,1,123.0000
+default,G1958-Dual-Triple,1,123.0000
+default,G1958-Dual-Q-TOF,1,123.0000
+default,G1958-Dual-TOF,1,123.0000
+cedar_creek,G1958-Single-Single,1,123.0000
+memphis_americas,G1958-Single-Single,1,123.0000
+cedar_creek,G1958-Single-Triple,1,123.0000
+memphis_americas,G1958-Single-Triple,1,123.0000
+cedar_creek,G1958-Single-Q-TOF,1,123.0000
+memphis_americas,G1958-Single-Q-TOF,1,123.0000
+cedar_creek,G1958-Single-TOF,1,123.0000
+memphis_americas,G1958-Single-TOF,1,123.0000
+cedar_creek,G1958-Dual-Single,1,123.0000
+memphis_americas,G1958-Dual-Single,1,123.0000
+cedar_creek,G1958-Dual-Triple,1,123.0000
+memphis_americas,G1958-Dual-Triple,1,123.0000
+cedar_creek,G1958-Dual-Q-TOF,1,123.0000
+memphis_americas,G1958-Dual-Q-TOF,1,123.0000
+cedar_creek,G1958-Dual-TOF,1,123.0000
+memphis_americas,G1958-Dual-TOF,1,123.0000
+default,G1958C,1,123.0000
+cedar_creek,G1958C,1,123.0000
+memphis_americas,G1958C,1,123.0000
+default,G1958C-1,1,123.0000
+cedar_creek,G1958C-1,1,123.0000
+memphis_americas,G1958C-1,1,123.0000
+default,G1958B,1,123.0000
+cedar_creek,G1958B,1,123.0000
+memphis_americas,G1958B,1,123.0000
+default,G1958B-1,1,123.0000
+cedar_creek,G1958B-1,1,123.0000
+memphis_americas,G1958B-1,1,123.0000
+default,G1958A,1,123.0000
+cedar_creek,G1958A,1,123.0000
+memphis_americas,G1958A,1,123.0000
+default,"1260-Solvent-None-DAD HS-Multisampler-Flex",1,123.0000
+default,"1260-Solvent-None-DAD HS-Multisampler-Benchtop",1,123.0000
+default,"1260-Solvent-None-DAD HS-Multisampler-Stack",1,123.0000
+default,"1260-Solvent-None-DAD HS-Hybrid Multisampler-Flex",1,123.0000
+default,"1260-Solvent-None-DAD HS-Hybrid Multisampler-Benchtop",1,123.0000
+default,"1260-Solvent-None-DAD HS-Hybrid Multisampler-Stack",1,123.0000
+default,"1260-Solvent-None-DAD HS-Vialsampler-Flex",1,123.0000
+default,"1260-Solvent-None-DAD HS-Vialsampler-Benchtop",1,123.0000
+default,"1260-Solvent-None-DAD HS-Vialsampler-Stack",1,123.0000
+default,"1260-Solvent-None-DAD WR-Multisampler-Flex",1,123.0000
+default,"1260-Solvent-None-DAD WR-Multisampler-Benchtop",1,123.0000
+default,"1260-Solvent-None-DAD WR-Multisampler-Stack",1,123.0000
+default,"1260-Solvent-None-DAD WR-Hybrid Multisampler-Flex",1,123.0000
+default,"1260-Solvent-None-DAD WR-Hybrid Multisampler-Benchtop",1,123.0000
+default,"1260-Solvent-None-DAD WR-Hybrid Multisampler-Stack",1,123.0000
+default,"1260-Solvent-None-DAD WR-Vialsampler-Flex",1,123.0000
+default,"1260-Solvent-None-DAD WR-Vialsampler-Benchtop",1,123.0000
+default,"1260-Solvent-None-DAD WR-Vialsampler-Stack",1,123.0000
+default,1260-Solvent-None-VWD-Multisampler-Flex,1,123.0000
+default,1260-Solvent-None-VWD-Multisampler-Benchtop,1,123.0000
+default,1260-Solvent-None-VWD-Multisampler-Stack,1,123.0000
+default,"1260-Solvent-None-VWD-Hybrid Multisampler-Flex",1,123.0000
+default,"1260-Solvent-None-VWD-Hybrid Multisampler-Benchtop",1,123.0000
+default,"1260-Solvent-None-VWD-Hybrid Multisampler-Stack",1,123.0000
+default,1260-Solvent-None-VWD-Vialsampler-Flex,1,123.0000
+default,1260-Solvent-None-VWD-Vialsampler-Benchtop,1,123.0000
+default,1260-Solvent-None-VWD-Vialsampler-Stack,1,123.0000
+default,1260-Solvent-None-FLD-Multisampler-Flex,1,123.0000
+default,1260-Solvent-None-FLD-Multisampler-Benchtop,1,123.0000
+default,1260-Solvent-None-FLD-Multisampler-Stack,1,123.0000
+default,"1260-Solvent-None-FLD-Hybrid Multisampler-Flex",1,123.0000
+default,"1260-Solvent-None-FLD-Hybrid Multisampler-Benchtop",1,123.0000
+default,"1260-Solvent-None-FLD-Hybrid Multisampler-Stack",1,123.0000
+default,1260-Solvent-None-FLD-Vialsampler-Flex,1,123.0000
+default,1260-Solvent-None-FLD-Vialsampler-Benchtop,1,123.0000
+default,1260-Solvent-None-FLD-Vialsampler-Stack,1,123.0000
+default,1260-Solvent-None-RID-Multisampler-Flex,1,123.0000
+default,1260-Solvent-None-RID-Multisampler-Benchtop,1,123.0000
+default,1260-Solvent-None-RID-Multisampler-Stack,1,123.0000
+default,"1260-Solvent-None-RID-Hybrid Multisampler-Flex",1,123.0000
+default,"1260-Solvent-None-RID-Hybrid Multisampler-Benchtop",1,123.0000
+default,"1260-Solvent-None-RID-Hybrid Multisampler-Stack",1,123.0000
+default,1260-Solvent-None-RID-Vialsampler-Flex,1,123.0000
+default,1260-Solvent-None-RID-Vialsampler-Benchtop,1,123.0000
+default,1260-Solvent-None-RID-Vialsampler-Stack,1,123.0000
+default,"1260-Solvent-ELSD-DAD HS-Multisampler-Flex",1,123.0000
+default,"1260-Solvent-ELSD-DAD HS-Multisampler-Benchtop",1,123.0000
+default,"1260-Solvent-ELSD-DAD HS-Multisampler-Stack",1,123.0000
+default,"1260-Solvent-ELSD-DAD HS-Hybrid Multisampler-Flex",1,123.0000
+default,"1260-Solvent-ELSD-DAD HS-Hybrid Multisampler-Benchtop",1,123.0000
+default,"1260-Solvent-ELSD-DAD HS-Hybrid Multisampler-Stack",1,123.0000
+default,"1260-Solvent-ELSD-DAD HS-Vialsampler-Flex",1,123.0000
+default,"1260-Solvent-ELSD-DAD HS-Vialsampler-Benchtop",1,123.0000
+default,"1260-Solvent-ELSD-DAD HS-Vialsampler-Stack",1,123.0000
+default,"1260-Solvent-ELSD-DAD WR-Multisampler-Flex",1,123.0000
+default,"1260-Solvent-ELSD-DAD WR-Multisampler-Benchtop",1,123.0000
+default,"1260-Solvent-ELSD-DAD WR-Multisampler-Stack",1,123.0000
+default,"1260-Solvent-ELSD-DAD WR-Hybrid Multisampler-Flex",1,123.0000
+default,"1260-Solvent-ELSD-DAD WR-Hybrid Multisampler-Benchtop",1,123.0000
+default,"1260-Solvent-ELSD-DAD WR-Hybrid Multisampler-Stack",1,123.0000
+default,"1260-Solvent-ELSD-DAD WR-Vialsampler-Flex",1,123.0000
+default,"1260-Solvent-ELSD-DAD WR-Vialsampler-Benchtop",1,123.0000
+default,"1260-Solvent-ELSD-DAD WR-Vialsampler-Stack",1,123.0000
+default,1260-Solvent-ELSD-VWD-Multisampler-Flex,1,123.0000
+default,1260-Solvent-ELSD-VWD-Multisampler-Benchtop,1,123.0000
+default,1260-Solvent-ELSD-VWD-Multisampler-Stack,1,123.0000
+default,"1260-Solvent-ELSD-VWD-Hybrid Multisampler-Flex",1,123.0000
+default,"1260-Solvent-ELSD-VWD-Hybrid Multisampler-Benchtop",1,123.0000
+default,"1260-Solvent-ELSD-VWD-Hybrid Multisampler-Stack",1,123.0000
+default,1260-Solvent-ELSD-VWD-Vialsampler-Flex,1,123.0000
+default,1260-Solvent-ELSD-VWD-Vialsampler-Benchtop,1,123.0000
+default,1260-Solvent-ELSD-VWD-Vialsampler-Stack,1,123.0000
+default,1260-Solvent-ELSD-FLD-Multisampler-Flex,1,123.0000
+default,1260-Solvent-ELSD-FLD-Multisampler-Benchtop,1,123.0000
+default,1260-Solvent-ELSD-FLD-Multisampler-Stack,1,123.0000
+default,"1260-Solvent-ELSD-FLD-Hybrid Multisampler-Flex",1,123.0000
+default,"1260-Solvent-ELSD-FLD-Hybrid Multisampler-Benchtop",1,123.0000
+default,"1260-Solvent-ELSD-FLD-Hybrid Multisampler-Stack",1,123.0000
+default,1260-Solvent-ELSD-FLD-Vialsampler-Flex,1,123.0000
+default,1260-Solvent-ELSD-FLD-Vialsampler-Benchtop,1,123.0000
+default,1260-Solvent-ELSD-FLD-Vialsampler-Stack,1,123.0000
+default,1260-Solvent-ELSD-RID-Multisampler-Flex,1,123.0000
+default,1260-Solvent-ELSD-RID-Multisampler-Benchtop,1,123.0000
+default,1260-Solvent-ELSD-RID-Multisampler-Stack,1,123.0000
+default,"1260-Solvent-ELSD-RID-Hybrid Multisampler-Flex",1,123.0000
+default,"1260-Solvent-ELSD-RID-Hybrid Multisampler-Benchtop",1,123.0000
+default,"1260-Solvent-ELSD-RID-Hybrid Multisampler-Stack",1,123.0000
+default,1260-Solvent-ELSD-RID-Vialsampler-Flex,1,123.0000
+default,1260-Solvent-ELSD-RID-Vialsampler-Benchtop,1,123.0000
+default,1260-Solvent-ELSD-RID-Vialsampler-Stack,1,123.0000
+default,"1260-Level Sensing-None-DAD HS-Multisampler-Flex",1,123.0000
+default,"1260-Level Sensing-None-DAD HS-Multisampler-Benchtop",1,123.0000
+default,"1260-Level Sensing-None-DAD HS-Multisampler-Stack",1,123.0000
+default,"1260-Level Sensing-None-DAD HS-Hybrid Multisampler-Flex",1,123.0000
+default,"1260-Level Sensing-None-DAD HS-Hybrid Multisampler-Benchtop",1,123.0000
+default,"1260-Level Sensing-None-DAD HS-Hybrid Multisampler-Stack",1,123.0000
+default,"1260-Level Sensing-None-DAD HS-Vialsampler-Flex",1,123.0000
+default,"1260-Level Sensing-None-DAD HS-Vialsampler-Benchtop",1,123.0000
+default,"1260-Level Sensing-None-DAD HS-Vialsampler-Stack",1,123.0000
+default,"1260-Level Sensing-None-DAD WR-Multisampler-Flex",1,123.0000
+default,"1260-Level Sensing-None-DAD WR-Multisampler-Benchtop",1,123.0000
+default,"1260-Level Sensing-None-DAD WR-Multisampler-Stack",1,123.0000
+default,"1260-Level Sensing-None-DAD WR-Hybrid Multisampler-Flex",1,123.0000
+default,"1260-Level Sensing-None-DAD WR-Hybrid Multisampler-Benchtop",1,123.0000
+default,"1260-Level Sensing-None-DAD WR-Hybrid Multisampler-Stack",1,123.0000
+default,"1260-Level Sensing-None-DAD WR-Vialsampler-Flex",1,123.0000
+default,"1260-Level Sensing-None-DAD WR-Vialsampler-Benchtop",1,123.0000
+default,"1260-Level Sensing-None-DAD WR-Vialsampler-Stack",1,123.0000
+default,"1260-Level Sensing-None-VWD-Multisampler-Flex",1,123.0000
+default,"1260-Level Sensing-None-VWD-Multisampler-Benchtop",1,123.0000
+default,"1260-Level Sensing-None-VWD-Multisampler-Stack",1,123.0000
+default,"1260-Level Sensing-None-VWD-Hybrid Multisampler-Flex",1,123.0000
+default,"1260-Level Sensing-None-VWD-Hybrid Multisampler-Benchtop",1,123.0000
+default,"1260-Level Sensing-None-VWD-Hybrid Multisampler-Stack",1,123.0000
+default,"1260-Level Sensing-None-VWD-Vialsampler-Flex",1,123.0000
+default,"1260-Level Sensing-None-VWD-Vialsampler-Benchtop",1,123.0000
+default,"1260-Level Sensing-None-VWD-Vialsampler-Stack",1,123.0000
+default,"1260-Level Sensing-None-FLD-Multisampler-Flex",1,123.0000
+default,"1260-Level Sensing-None-FLD-Multisampler-Benchtop",1,123.0000
+default,"1260-Level Sensing-None-FLD-Multisampler-Stack",1,123.0000
+default,"1260-Level Sensing-None-FLD-Hybrid Multisampler-Flex",1,123.0000
+default,"1260-Level Sensing-None-FLD-Hybrid Multisampler-Benchtop",1,123.0000
+default,"1260-Level Sensing-None-FLD-Hybrid Multisampler-Stack",1,123.0000
+default,"1260-Level Sensing-None-FLD-Vialsampler-Flex",1,123.0000
+default,"1260-Level Sensing-None-FLD-Vialsampler-Benchtop",1,123.0000
+default,"1260-Level Sensing-None-FLD-Vialsampler-Stack",1,123.0000
+default,"1260-Level Sensing-None-RID-Multisampler-Flex",1,123.0000
+default,"1260-Level Sensing-None-RID-Multisampler-Benchtop",1,123.0000
+default,"1260-Level Sensing-None-RID-Multisampler-Stack",1,123.0000
+default,"1260-Level Sensing-None-RID-Hybrid Multisampler-Flex",1,123.0000
+default,"1260-Level Sensing-None-RID-Hybrid Multisampler-Benchtop",1,123.0000
+default,"1260-Level Sensing-None-RID-Hybrid Multisampler-Stack",1,123.0000
+default,"1260-Level Sensing-None-RID-Vialsampler-Flex",1,123.0000
+default,"1260-Level Sensing-None-RID-Vialsampler-Benchtop",1,123.0000
+default,"1260-Level Sensing-None-RID-Vialsampler-Stack",1,123.0000
+default,"1260-Level Sensing-ELSD-DAD HS-Multisampler-Flex",1,123.0000
+default,"1260-Level Sensing-ELSD-DAD HS-Multisampler-Benchtop",1,123.0000
+default,"1260-Level Sensing-ELSD-DAD HS-Multisampler-Stack",1,123.0000
+default,"1260-Level Sensing-ELSD-DAD HS-Hybrid Multisampler-Flex",1,123.0000
+default,"1260-Level Sensing-ELSD-DAD HS-Hybrid Multisampler-Benchtop",1,123.0000
+default,"1260-Level Sensing-ELSD-DAD HS-Hybrid Multisampler-Stack",1,123.0000
+default,"1260-Level Sensing-ELSD-DAD HS-Vialsampler-Flex",1,123.0000
+default,"1260-Level Sensing-ELSD-DAD HS-Vialsampler-Benchtop",1,123.0000
+default,"1260-Level Sensing-ELSD-DAD HS-Vialsampler-Stack",1,123.0000
+default,"1260-Level Sensing-ELSD-DAD WR-Multisampler-Flex",1,123.0000
+default,"1260-Level Sensing-ELSD-DAD WR-Multisampler-Benchtop",1,123.0000
+default,"1260-Level Sensing-ELSD-DAD WR-Multisampler-Stack",1,123.0000
+default,"1260-Level Sensing-ELSD-DAD WR-Hybrid Multisampler-Flex",1,123.0000
+default,"1260-Level Sensing-ELSD-DAD WR-Hybrid Multisampler-Benchtop",1,123.0000
+default,"1260-Level Sensing-ELSD-DAD WR-Hybrid Multisampler-Stack",1,123.0000
+default,"1260-Level Sensing-ELSD-DAD WR-Vialsampler-Flex",1,123.0000
+default,"1260-Level Sensing-ELSD-DAD WR-Vialsampler-Benchtop",1,123.0000
+default,"1260-Level Sensing-ELSD-DAD WR-Vialsampler-Stack",1,123.0000
+default,"1260-Level Sensing-ELSD-VWD-Multisampler-Flex",1,123.0000
+default,"1260-Level Sensing-ELSD-VWD-Multisampler-Benchtop",1,123.0000
+default,"1260-Level Sensing-ELSD-VWD-Multisampler-Stack",1,123.0000
+default,"1260-Level Sensing-ELSD-VWD-Hybrid Multisampler-Flex",1,123.0000
+default,"1260-Level Sensing-ELSD-VWD-Hybrid Multisampler-Benchtop",1,123.0000
+default,"1260-Level Sensing-ELSD-VWD-Hybrid Multisampler-Stack",1,123.0000
+default,"1260-Level Sensing-ELSD-VWD-Vialsampler-Flex",1,123.0000
+default,"1260-Level Sensing-ELSD-VWD-Vialsampler-Benchtop",1,123.0000
+default,"1260-Level Sensing-ELSD-VWD-Vialsampler-Stack",1,123.0000
+default,"1260-Level Sensing-ELSD-FLD-Multisampler-Flex",1,123.0000
+default,"1260-Level Sensing-ELSD-FLD-Multisampler-Benchtop",1,123.0000
+default,"1260-Level Sensing-ELSD-FLD-Multisampler-Stack",1,123.0000
+default,"1260-Level Sensing-ELSD-FLD-Hybrid Multisampler-Flex",1,123.0000
+default,"1260-Level Sensing-ELSD-FLD-Hybrid Multisampler-Benchtop",1,123.0000
+default,"1260-Level Sensing-ELSD-FLD-Hybrid Multisampler-Stack",1,123.0000
+default,"1260-Level Sensing-ELSD-FLD-Vialsampler-Flex",1,123.0000
+default,"1260-Level Sensing-ELSD-FLD-Vialsampler-Benchtop",1,123.0000
+default,"1260-Level Sensing-ELSD-FLD-Vialsampler-Stack",1,123.0000
+default,"1260-Level Sensing-ELSD-RID-Multisampler-Flex",1,123.0000
+default,"1260-Level Sensing-ELSD-RID-Multisampler-Benchtop",1,123.0000
+default,"1260-Level Sensing-ELSD-RID-Multisampler-Stack",1,123.0000
+default,"1260-Level Sensing-ELSD-RID-Hybrid Multisampler-Flex",1,123.0000
+default,"1260-Level Sensing-ELSD-RID-Hybrid Multisampler-Benchtop",1,123.0000
+default,"1260-Level Sensing-ELSD-RID-Hybrid Multisampler-Stack",1,123.0000
+default,"1260-Level Sensing-ELSD-RID-Vialsampler-Flex",1,123.0000
+default,"1260-Level Sensing-ELSD-RID-Vialsampler-Benchtop",1,123.0000
+default,"1260-Level Sensing-ELSD-RID-Vialsampler-Stack",1,123.0000
+cedar_creek,"1260-Solvent-None-DAD HS-Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Solvent-None-DAD HS-Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Solvent-None-DAD HS-Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Solvent-None-DAD HS-Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Solvent-None-DAD HS-Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Solvent-None-DAD HS-Multisampler-Stack",1,123.0000
+cedar_creek,"1260-Solvent-None-DAD HS-Hybrid Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Solvent-None-DAD HS-Hybrid Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Solvent-None-DAD HS-Hybrid Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Solvent-None-DAD HS-Hybrid Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Solvent-None-DAD HS-Hybrid Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Solvent-None-DAD HS-Hybrid Multisampler-Stack",1,123.0000
+cedar_creek,"1260-Solvent-None-DAD HS-Vialsampler-Flex",1,123.0000
+memphis_americas,"1260-Solvent-None-DAD HS-Vialsampler-Flex",1,123.0000
+cedar_creek,"1260-Solvent-None-DAD HS-Vialsampler-Benchtop",1,123.0000
+memphis_americas,"1260-Solvent-None-DAD HS-Vialsampler-Benchtop",1,123.0000
+cedar_creek,"1260-Solvent-None-DAD HS-Vialsampler-Stack",1,123.0000
+memphis_americas,"1260-Solvent-None-DAD HS-Vialsampler-Stack",1,123.0000
+cedar_creek,"1260-Solvent-None-DAD WR-Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Solvent-None-DAD WR-Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Solvent-None-DAD WR-Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Solvent-None-DAD WR-Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Solvent-None-DAD WR-Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Solvent-None-DAD WR-Multisampler-Stack",1,123.0000
+cedar_creek,"1260-Solvent-None-DAD WR-Hybrid Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Solvent-None-DAD WR-Hybrid Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Solvent-None-DAD WR-Hybrid Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Solvent-None-DAD WR-Hybrid Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Solvent-None-DAD WR-Hybrid Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Solvent-None-DAD WR-Hybrid Multisampler-Stack",1,123.0000
+cedar_creek,"1260-Solvent-None-DAD WR-Vialsampler-Flex",1,123.0000
+memphis_americas,"1260-Solvent-None-DAD WR-Vialsampler-Flex",1,123.0000
+cedar_creek,"1260-Solvent-None-DAD WR-Vialsampler-Benchtop",1,123.0000
+memphis_americas,"1260-Solvent-None-DAD WR-Vialsampler-Benchtop",1,123.0000
+cedar_creek,"1260-Solvent-None-DAD WR-Vialsampler-Stack",1,123.0000
+memphis_americas,"1260-Solvent-None-DAD WR-Vialsampler-Stack",1,123.0000
+cedar_creek,1260-Solvent-None-VWD-Multisampler-Flex,1,123.0000
+memphis_americas,1260-Solvent-None-VWD-Multisampler-Flex,1,123.0000
+cedar_creek,1260-Solvent-None-VWD-Multisampler-Benchtop,1,123.0000
+memphis_americas,1260-Solvent-None-VWD-Multisampler-Benchtop,1,123.0000
+cedar_creek,1260-Solvent-None-VWD-Multisampler-Stack,1,123.0000
+memphis_americas,1260-Solvent-None-VWD-Multisampler-Stack,1,123.0000
+cedar_creek,"1260-Solvent-None-VWD-Hybrid Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Solvent-None-VWD-Hybrid Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Solvent-None-VWD-Hybrid Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Solvent-None-VWD-Hybrid Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Solvent-None-VWD-Hybrid Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Solvent-None-VWD-Hybrid Multisampler-Stack",1,123.0000
+cedar_creek,1260-Solvent-None-VWD-Vialsampler-Flex,1,123.0000
+memphis_americas,1260-Solvent-None-VWD-Vialsampler-Flex,1,123.0000
+cedar_creek,1260-Solvent-None-VWD-Vialsampler-Benchtop,1,123.0000
+memphis_americas,1260-Solvent-None-VWD-Vialsampler-Benchtop,1,123.0000
+cedar_creek,1260-Solvent-None-VWD-Vialsampler-Stack,1,123.0000
+memphis_americas,1260-Solvent-None-VWD-Vialsampler-Stack,1,123.0000
+cedar_creek,1260-Solvent-None-FLD-Multisampler-Flex,1,123.0000
+memphis_americas,1260-Solvent-None-FLD-Multisampler-Flex,1,123.0000
+cedar_creek,1260-Solvent-None-FLD-Multisampler-Benchtop,1,123.0000
+memphis_americas,1260-Solvent-None-FLD-Multisampler-Benchtop,1,123.0000
+cedar_creek,1260-Solvent-None-FLD-Multisampler-Stack,1,123.0000
+memphis_americas,1260-Solvent-None-FLD-Multisampler-Stack,1,123.0000
+cedar_creek,"1260-Solvent-None-FLD-Hybrid Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Solvent-None-FLD-Hybrid Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Solvent-None-FLD-Hybrid Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Solvent-None-FLD-Hybrid Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Solvent-None-FLD-Hybrid Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Solvent-None-FLD-Hybrid Multisampler-Stack",1,123.0000
+cedar_creek,1260-Solvent-None-FLD-Vialsampler-Flex,1,123.0000
+memphis_americas,1260-Solvent-None-FLD-Vialsampler-Flex,1,123.0000
+cedar_creek,1260-Solvent-None-FLD-Vialsampler-Benchtop,1,123.0000
+memphis_americas,1260-Solvent-None-FLD-Vialsampler-Benchtop,1,123.0000
+cedar_creek,1260-Solvent-None-FLD-Vialsampler-Stack,1,123.0000
+memphis_americas,1260-Solvent-None-FLD-Vialsampler-Stack,1,123.0000
+cedar_creek,1260-Solvent-None-RID-Multisampler-Flex,1,123.0000
+memphis_americas,1260-Solvent-None-RID-Multisampler-Flex,1,123.0000
+cedar_creek,1260-Solvent-None-RID-Multisampler-Benchtop,1,123.0000
+memphis_americas,1260-Solvent-None-RID-Multisampler-Benchtop,1,123.0000
+cedar_creek,1260-Solvent-None-RID-Multisampler-Stack,1,123.0000
+memphis_americas,1260-Solvent-None-RID-Multisampler-Stack,1,123.0000
+cedar_creek,"1260-Solvent-None-RID-Hybrid Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Solvent-None-RID-Hybrid Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Solvent-None-RID-Hybrid Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Solvent-None-RID-Hybrid Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Solvent-None-RID-Hybrid Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Solvent-None-RID-Hybrid Multisampler-Stack",1,123.0000
+cedar_creek,1260-Solvent-None-RID-Vialsampler-Flex,1,123.0000
+memphis_americas,1260-Solvent-None-RID-Vialsampler-Flex,1,123.0000
+cedar_creek,1260-Solvent-None-RID-Vialsampler-Benchtop,1,123.0000
+memphis_americas,1260-Solvent-None-RID-Vialsampler-Benchtop,1,123.0000
+cedar_creek,1260-Solvent-None-RID-Vialsampler-Stack,1,123.0000
+memphis_americas,1260-Solvent-None-RID-Vialsampler-Stack,1,123.0000
+cedar_creek,"1260-Solvent-ELSD-DAD HS-Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Solvent-ELSD-DAD HS-Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Solvent-ELSD-DAD HS-Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Solvent-ELSD-DAD HS-Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Solvent-ELSD-DAD HS-Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Solvent-ELSD-DAD HS-Multisampler-Stack",1,123.0000
+cedar_creek,"1260-Solvent-ELSD-DAD HS-Hybrid Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Solvent-ELSD-DAD HS-Hybrid Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Solvent-ELSD-DAD HS-Hybrid Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Solvent-ELSD-DAD HS-Hybrid Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Solvent-ELSD-DAD HS-Hybrid Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Solvent-ELSD-DAD HS-Hybrid Multisampler-Stack",1,123.0000
+cedar_creek,"1260-Solvent-ELSD-DAD HS-Vialsampler-Flex",1,123.0000
+memphis_americas,"1260-Solvent-ELSD-DAD HS-Vialsampler-Flex",1,123.0000
+cedar_creek,"1260-Solvent-ELSD-DAD HS-Vialsampler-Benchtop",1,123.0000
+memphis_americas,"1260-Solvent-ELSD-DAD HS-Vialsampler-Benchtop",1,123.0000
+cedar_creek,"1260-Solvent-ELSD-DAD HS-Vialsampler-Stack",1,123.0000
+memphis_americas,"1260-Solvent-ELSD-DAD HS-Vialsampler-Stack",1,123.0000
+cedar_creek,"1260-Solvent-ELSD-DAD WR-Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Solvent-ELSD-DAD WR-Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Solvent-ELSD-DAD WR-Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Solvent-ELSD-DAD WR-Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Solvent-ELSD-DAD WR-Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Solvent-ELSD-DAD WR-Multisampler-Stack",1,123.0000
+cedar_creek,"1260-Solvent-ELSD-DAD WR-Hybrid Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Solvent-ELSD-DAD WR-Hybrid Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Solvent-ELSD-DAD WR-Hybrid Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Solvent-ELSD-DAD WR-Hybrid Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Solvent-ELSD-DAD WR-Hybrid Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Solvent-ELSD-DAD WR-Hybrid Multisampler-Stack",1,123.0000
+cedar_creek,"1260-Solvent-ELSD-DAD WR-Vialsampler-Flex",1,123.0000
+memphis_americas,"1260-Solvent-ELSD-DAD WR-Vialsampler-Flex",1,123.0000
+cedar_creek,"1260-Solvent-ELSD-DAD WR-Vialsampler-Benchtop",1,123.0000
+memphis_americas,"1260-Solvent-ELSD-DAD WR-Vialsampler-Benchtop",1,123.0000
+cedar_creek,"1260-Solvent-ELSD-DAD WR-Vialsampler-Stack",1,123.0000
+memphis_americas,"1260-Solvent-ELSD-DAD WR-Vialsampler-Stack",1,123.0000
+cedar_creek,1260-Solvent-ELSD-VWD-Multisampler-Flex,1,123.0000
+memphis_americas,1260-Solvent-ELSD-VWD-Multisampler-Flex,1,123.0000
+cedar_creek,1260-Solvent-ELSD-VWD-Multisampler-Benchtop,1,123.0000
+memphis_americas,1260-Solvent-ELSD-VWD-Multisampler-Benchtop,1,123.0000
+cedar_creek,1260-Solvent-ELSD-VWD-Multisampler-Stack,1,123.0000
+memphis_americas,1260-Solvent-ELSD-VWD-Multisampler-Stack,1,123.0000
+cedar_creek,"1260-Solvent-ELSD-VWD-Hybrid Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Solvent-ELSD-VWD-Hybrid Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Solvent-ELSD-VWD-Hybrid Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Solvent-ELSD-VWD-Hybrid Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Solvent-ELSD-VWD-Hybrid Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Solvent-ELSD-VWD-Hybrid Multisampler-Stack",1,123.0000
+cedar_creek,1260-Solvent-ELSD-VWD-Vialsampler-Flex,1,123.0000
+memphis_americas,1260-Solvent-ELSD-VWD-Vialsampler-Flex,1,123.0000
+cedar_creek,1260-Solvent-ELSD-VWD-Vialsampler-Benchtop,1,123.0000
+memphis_americas,1260-Solvent-ELSD-VWD-Vialsampler-Benchtop,1,123.0000
+cedar_creek,1260-Solvent-ELSD-VWD-Vialsampler-Stack,1,123.0000
+memphis_americas,1260-Solvent-ELSD-VWD-Vialsampler-Stack,1,123.0000
+cedar_creek,1260-Solvent-ELSD-FLD-Multisampler-Flex,1,123.0000
+memphis_americas,1260-Solvent-ELSD-FLD-Multisampler-Flex,1,123.0000
+cedar_creek,1260-Solvent-ELSD-FLD-Multisampler-Benchtop,1,123.0000
+memphis_americas,1260-Solvent-ELSD-FLD-Multisampler-Benchtop,1,123.0000
+cedar_creek,1260-Solvent-ELSD-FLD-Multisampler-Stack,1,123.0000
+memphis_americas,1260-Solvent-ELSD-FLD-Multisampler-Stack,1,123.0000
+cedar_creek,"1260-Solvent-ELSD-FLD-Hybrid Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Solvent-ELSD-FLD-Hybrid Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Solvent-ELSD-FLD-Hybrid Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Solvent-ELSD-FLD-Hybrid Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Solvent-ELSD-FLD-Hybrid Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Solvent-ELSD-FLD-Hybrid Multisampler-Stack",1,123.0000
+cedar_creek,1260-Solvent-ELSD-FLD-Vialsampler-Flex,1,123.0000
+memphis_americas,1260-Solvent-ELSD-FLD-Vialsampler-Flex,1,123.0000
+cedar_creek,1260-Solvent-ELSD-FLD-Vialsampler-Benchtop,1,123.0000
+memphis_americas,1260-Solvent-ELSD-FLD-Vialsampler-Benchtop,1,123.0000
+cedar_creek,1260-Solvent-ELSD-FLD-Vialsampler-Stack,1,123.0000
+memphis_americas,1260-Solvent-ELSD-FLD-Vialsampler-Stack,1,123.0000
+cedar_creek,1260-Solvent-ELSD-RID-Multisampler-Flex,1,123.0000
+memphis_americas,1260-Solvent-ELSD-RID-Multisampler-Flex,1,123.0000
+cedar_creek,1260-Solvent-ELSD-RID-Multisampler-Benchtop,1,123.0000
+memphis_americas,1260-Solvent-ELSD-RID-Multisampler-Benchtop,1,123.0000
+cedar_creek,1260-Solvent-ELSD-RID-Multisampler-Stack,1,123.0000
+memphis_americas,1260-Solvent-ELSD-RID-Multisampler-Stack,1,123.0000
+cedar_creek,"1260-Solvent-ELSD-RID-Hybrid Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Solvent-ELSD-RID-Hybrid Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Solvent-ELSD-RID-Hybrid Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Solvent-ELSD-RID-Hybrid Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Solvent-ELSD-RID-Hybrid Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Solvent-ELSD-RID-Hybrid Multisampler-Stack",1,123.0000
+cedar_creek,1260-Solvent-ELSD-RID-Vialsampler-Flex,1,123.0000
+memphis_americas,1260-Solvent-ELSD-RID-Vialsampler-Flex,1,123.0000
+cedar_creek,1260-Solvent-ELSD-RID-Vialsampler-Benchtop,1,123.0000
+memphis_americas,1260-Solvent-ELSD-RID-Vialsampler-Benchtop,1,123.0000
+cedar_creek,1260-Solvent-ELSD-RID-Vialsampler-Stack,1,123.0000
+memphis_americas,1260-Solvent-ELSD-RID-Vialsampler-Stack,1,123.0000
+cedar_creek,"1260-Level Sensing-None-DAD HS-Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Level Sensing-None-DAD HS-Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Level Sensing-None-DAD HS-Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Level Sensing-None-DAD HS-Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Level Sensing-None-DAD HS-Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Level Sensing-None-DAD HS-Multisampler-Stack",1,123.0000
+cedar_creek,"1260-Level Sensing-None-DAD HS-Hybrid Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Level Sensing-None-DAD HS-Hybrid Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Level Sensing-None-DAD HS-Hybrid Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Level Sensing-None-DAD HS-Hybrid Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Level Sensing-None-DAD HS-Hybrid Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Level Sensing-None-DAD HS-Hybrid Multisampler-Stack",1,123.0000
+cedar_creek,"1260-Level Sensing-None-DAD HS-Vialsampler-Flex",1,123.0000
+memphis_americas,"1260-Level Sensing-None-DAD HS-Vialsampler-Flex",1,123.0000
+cedar_creek,"1260-Level Sensing-None-DAD HS-Vialsampler-Benchtop",1,123.0000
+memphis_americas,"1260-Level Sensing-None-DAD HS-Vialsampler-Benchtop",1,123.0000
+cedar_creek,"1260-Level Sensing-None-DAD HS-Vialsampler-Stack",1,123.0000
+memphis_americas,"1260-Level Sensing-None-DAD HS-Vialsampler-Stack",1,123.0000
+cedar_creek,"1260-Level Sensing-None-DAD WR-Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Level Sensing-None-DAD WR-Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Level Sensing-None-DAD WR-Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Level Sensing-None-DAD WR-Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Level Sensing-None-DAD WR-Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Level Sensing-None-DAD WR-Multisampler-Stack",1,123.0000
+cedar_creek,"1260-Level Sensing-None-DAD WR-Hybrid Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Level Sensing-None-DAD WR-Hybrid Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Level Sensing-None-DAD WR-Hybrid Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Level Sensing-None-DAD WR-Hybrid Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Level Sensing-None-DAD WR-Hybrid Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Level Sensing-None-DAD WR-Hybrid Multisampler-Stack",1,123.0000
+cedar_creek,"1260-Level Sensing-None-DAD WR-Vialsampler-Flex",1,123.0000
+memphis_americas,"1260-Level Sensing-None-DAD WR-Vialsampler-Flex",1,123.0000
+cedar_creek,"1260-Level Sensing-None-DAD WR-Vialsampler-Benchtop",1,123.0000
+memphis_americas,"1260-Level Sensing-None-DAD WR-Vialsampler-Benchtop",1,123.0000
+cedar_creek,"1260-Level Sensing-None-DAD WR-Vialsampler-Stack",1,123.0000
+memphis_americas,"1260-Level Sensing-None-DAD WR-Vialsampler-Stack",1,123.0000
+cedar_creek,"1260-Level Sensing-None-VWD-Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Level Sensing-None-VWD-Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Level Sensing-None-VWD-Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Level Sensing-None-VWD-Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Level Sensing-None-VWD-Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Level Sensing-None-VWD-Multisampler-Stack",1,123.0000
+cedar_creek,"1260-Level Sensing-None-VWD-Hybrid Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Level Sensing-None-VWD-Hybrid Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Level Sensing-None-VWD-Hybrid Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Level Sensing-None-VWD-Hybrid Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Level Sensing-None-VWD-Hybrid Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Level Sensing-None-VWD-Hybrid Multisampler-Stack",1,123.0000
+cedar_creek,"1260-Level Sensing-None-VWD-Vialsampler-Flex",1,123.0000
+memphis_americas,"1260-Level Sensing-None-VWD-Vialsampler-Flex",1,123.0000
+cedar_creek,"1260-Level Sensing-None-VWD-Vialsampler-Benchtop",1,123.0000
+memphis_americas,"1260-Level Sensing-None-VWD-Vialsampler-Benchtop",1,123.0000
+cedar_creek,"1260-Level Sensing-None-VWD-Vialsampler-Stack",1,123.0000
+memphis_americas,"1260-Level Sensing-None-VWD-Vialsampler-Stack",1,123.0000
+cedar_creek,"1260-Level Sensing-None-FLD-Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Level Sensing-None-FLD-Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Level Sensing-None-FLD-Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Level Sensing-None-FLD-Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Level Sensing-None-FLD-Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Level Sensing-None-FLD-Multisampler-Stack",1,123.0000
+cedar_creek,"1260-Level Sensing-None-FLD-Hybrid Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Level Sensing-None-FLD-Hybrid Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Level Sensing-None-FLD-Hybrid Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Level Sensing-None-FLD-Hybrid Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Level Sensing-None-FLD-Hybrid Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Level Sensing-None-FLD-Hybrid Multisampler-Stack",1,123.0000
+cedar_creek,"1260-Level Sensing-None-FLD-Vialsampler-Flex",1,123.0000
+memphis_americas,"1260-Level Sensing-None-FLD-Vialsampler-Flex",1,123.0000
+cedar_creek,"1260-Level Sensing-None-FLD-Vialsampler-Benchtop",1,123.0000
+memphis_americas,"1260-Level Sensing-None-FLD-Vialsampler-Benchtop",1,123.0000
+cedar_creek,"1260-Level Sensing-None-FLD-Vialsampler-Stack",1,123.0000
+memphis_americas,"1260-Level Sensing-None-FLD-Vialsampler-Stack",1,123.0000
+cedar_creek,"1260-Level Sensing-None-RID-Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Level Sensing-None-RID-Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Level Sensing-None-RID-Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Level Sensing-None-RID-Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Level Sensing-None-RID-Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Level Sensing-None-RID-Multisampler-Stack",1,123.0000
+cedar_creek,"1260-Level Sensing-None-RID-Hybrid Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Level Sensing-None-RID-Hybrid Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Level Sensing-None-RID-Hybrid Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Level Sensing-None-RID-Hybrid Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Level Sensing-None-RID-Hybrid Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Level Sensing-None-RID-Hybrid Multisampler-Stack",1,123.0000
+cedar_creek,"1260-Level Sensing-None-RID-Vialsampler-Flex",1,123.0000
+memphis_americas,"1260-Level Sensing-None-RID-Vialsampler-Flex",1,123.0000
+cedar_creek,"1260-Level Sensing-None-RID-Vialsampler-Benchtop",1,123.0000
+memphis_americas,"1260-Level Sensing-None-RID-Vialsampler-Benchtop",1,123.0000
+cedar_creek,"1260-Level Sensing-None-RID-Vialsampler-Stack",1,123.0000
+memphis_americas,"1260-Level Sensing-None-RID-Vialsampler-Stack",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-DAD HS-Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-DAD HS-Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-DAD HS-Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-DAD HS-Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-DAD HS-Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-DAD HS-Multisampler-Stack",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-DAD HS-Hybrid Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-DAD HS-Hybrid Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-DAD HS-Hybrid Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-DAD HS-Hybrid Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-DAD HS-Hybrid Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-DAD HS-Hybrid Multisampler-Stack",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-DAD HS-Vialsampler-Flex",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-DAD HS-Vialsampler-Flex",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-DAD HS-Vialsampler-Benchtop",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-DAD HS-Vialsampler-Benchtop",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-DAD HS-Vialsampler-Stack",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-DAD HS-Vialsampler-Stack",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-DAD WR-Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-DAD WR-Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-DAD WR-Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-DAD WR-Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-DAD WR-Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-DAD WR-Multisampler-Stack",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-DAD WR-Hybrid Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-DAD WR-Hybrid Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-DAD WR-Hybrid Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-DAD WR-Hybrid Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-DAD WR-Hybrid Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-DAD WR-Hybrid Multisampler-Stack",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-DAD WR-Vialsampler-Flex",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-DAD WR-Vialsampler-Flex",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-DAD WR-Vialsampler-Benchtop",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-DAD WR-Vialsampler-Benchtop",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-DAD WR-Vialsampler-Stack",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-DAD WR-Vialsampler-Stack",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-VWD-Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-VWD-Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-VWD-Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-VWD-Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-VWD-Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-VWD-Multisampler-Stack",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-VWD-Hybrid Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-VWD-Hybrid Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-VWD-Hybrid Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-VWD-Hybrid Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-VWD-Hybrid Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-VWD-Hybrid Multisampler-Stack",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-VWD-Vialsampler-Flex",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-VWD-Vialsampler-Flex",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-VWD-Vialsampler-Benchtop",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-VWD-Vialsampler-Benchtop",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-VWD-Vialsampler-Stack",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-VWD-Vialsampler-Stack",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-FLD-Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-FLD-Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-FLD-Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-FLD-Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-FLD-Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-FLD-Multisampler-Stack",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-FLD-Hybrid Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-FLD-Hybrid Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-FLD-Hybrid Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-FLD-Hybrid Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-FLD-Hybrid Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-FLD-Hybrid Multisampler-Stack",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-FLD-Vialsampler-Flex",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-FLD-Vialsampler-Flex",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-FLD-Vialsampler-Benchtop",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-FLD-Vialsampler-Benchtop",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-FLD-Vialsampler-Stack",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-FLD-Vialsampler-Stack",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-RID-Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-RID-Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-RID-Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-RID-Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-RID-Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-RID-Multisampler-Stack",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-RID-Hybrid Multisampler-Flex",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-RID-Hybrid Multisampler-Flex",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-RID-Hybrid Multisampler-Benchtop",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-RID-Hybrid Multisampler-Benchtop",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-RID-Hybrid Multisampler-Stack",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-RID-Hybrid Multisampler-Stack",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-RID-Vialsampler-Flex",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-RID-Vialsampler-Flex",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-RID-Vialsampler-Benchtop",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-RID-Vialsampler-Benchtop",1,123.0000
+cedar_creek,"1260-Level Sensing-ELSD-RID-Vialsampler-Stack",1,123.0000
+memphis_americas,"1260-Level Sensing-ELSD-RID-Vialsampler-Stack",1,123.0000
